@@ -1,4 +1,4 @@
-
+/* CSS Stylesheet */
 header {
 	width:80%;
 	background-color:white;
@@ -14,7 +14,6 @@ nav {
 
 nav ul {
   list-style-type:none;
-
 }
 
 nav li {
@@ -22,22 +21,20 @@ nav li {
 	margin-right:8px;
 }
 
-
 hgroup {
 	float:center;
 }
 
 img {
-  display:block;
+  	display:block;
 	margin-left:auto;
 	margin-right:auto;
-
 }
+
 p {
 	font-size:1em;
 	font-style: normal;
 }
-
 
 figcaption {
 	text-align:center;
